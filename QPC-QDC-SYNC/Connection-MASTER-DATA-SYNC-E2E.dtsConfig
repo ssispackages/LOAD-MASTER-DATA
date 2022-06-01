@@ -1,0 +1,13 @@
+<?xml version="1.0"?><DTSConfiguration><DTSConfigurationHeading>
+	<DTSConfigurationFileInfo GeneratedBy="PIONE0\palani" GeneratedFromPackageName="MASTER-DATA-SYNC" 
+							  GeneratedFromPackageID="{82DCE654-480A-414C-8C38-E66A9D73F061}" GeneratedDate="2/17/2022 10:45:57 AM"/>
+</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Connections[ConnectionQDC].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=164.52.218.134;User ID=sa;Password=Pione@123;Initial Catalog=qdcuat1;Provider=SQLNCLI11.1;MARS Connection=False;</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Connections[ConnectionQSC].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>
+			Data Source=164.52.218.134;User ID=sa;Password=Pione@123;Initial Catalog=qscuat1;Provider=SQLNCLI11.1;Auto Translate=False;MARS Connection=False;
+		</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>
